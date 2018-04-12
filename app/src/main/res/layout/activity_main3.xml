@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!--
+    <com.example.wx.wx1_animationstudy.TitleView
+        android:id="@+id/title_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </com.example.wx.wx1_animationstudy.TitleView>
+    <com.example.wx.wx1_animationstudy.MyView1
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal"/>
+    -->
+    <com.example.wx.wx1_animationstudy.MyListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/my_listView">
+    </com.example.wx.wx1_animationstudy.MyListView>
+</LinearLayout>
